@@ -1,2 +1,2 @@
 # JavaProject-main
- I've devepoled this project using JAVA. It was my 2nd year project in BSC.
+ I've devepoled this gaming project by using Object Oriented Programming, JAVA. It was my yearly project of my 2nd year in BSC.
